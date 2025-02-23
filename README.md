@@ -1,6 +1,6 @@
 
 
-💻 **Técnico em Informática** com experiência em **Redes de Computadores** e **Segurança Eletrônica**.  
+💻 *Técnico em Informática* com experiência em **Redes de Computadores** e **Segurança Eletrônica**.  
 🎓 *Desenvolvedor Fullstack* 
 ---
 
