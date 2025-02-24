@@ -23,15 +23,11 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios para exp
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical"/>
-</div>
-
----
-
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([seu-linkedin](https://www.linkedin.com/in/leonardo-tarum%C3%A3/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-tarum%C3%A3/)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monteirotgm2@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55189997676030)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-25D366?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo.taruma?igsh=YTV1bXI5bnhzc3Zl)
 
 ![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
