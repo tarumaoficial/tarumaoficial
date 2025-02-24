@@ -1,7 +1,5 @@
 
 
-<h1 align="center">👋 Olá, eu sou o Leonardo</h1>
-
 💻 *Técnico em Informática* com experiência em **Redes de Computadores** e **Segurança Eletrônica**  
 🎓 *Desenvolvedor Fullstack* em formação, focado em criar soluções eficientes e escaláveis.  
 
