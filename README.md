@@ -1,27 +1,50 @@
-💻 *Técnico em Informática* com experiência em **Redes de Computadores** e **Segurança Eletrônica**  
-🎓 *Desenvolvedor Fullstack* em formação, focado em criar soluções eficientes e escaláveis.  
+👨‍💻 Olá, visitante! Eu sou [Leonardo Tarumã] 👋
+Profissional de TI | Infraestrutura | Docker & Python
 
----
+Seja bem-vindo ao meu perfil no GitHub! Sou um profissional de tecnologia movido pelo desafio de transformar problemas complexos em soluções práticas. Minha jornada é focada em conectar infraestruturas robustas a experiências de usuário eficientes, garantindo a estabilidade e a segurança dos sistemas.
 
-## 🚀 Tecnologias em Aprendizado
-- ⚡ **JavaScript** | **HTML** | **CSS**  
-- 📱 **React Native**  
-- 🌐 **Node.js**  
-- 🗄️ **MySQL**  
-- 📊 **Scrum** (*utilizando* **Jira**)  
+🚀 Sobre mim
+💡 Tenho forte atuação na modernização de ambientes e suporte.
 
----
+🎯 Gosto de diagnosticar problemas na causa raiz utilizando pensamento analítico.
 
-## 💡 Sobre Mim
-Sou apaixonado por tecnologia e estou sempre em busca de novos desafios para expandir minhas habilidades. Gosto de transformar ideias em soluções reais e funcionais. 💥
+🤝 Meu trabalho é guiado pela empatia e pelo foco nas necessidades reais do usuário.
 
-💬 *“A melhor forma de prever o futuro é criá-lo.”* – Peter Drucker
+🔄 Aplico metodologias ágeis para entregar melhorias contínuas.
 
----
+🛠️ Minha Stack de Tecnologias
+Aqui estão as ferramentas e linguagens com as quais trabalho e que compõem meu dia a dia:
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-tarum%C3%A3/)
-[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monteirotgm2@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo.taruma?igsh=YTV1bXI5bnhzc3Zl)
+Infraestrutura & DevOps
 
-![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+Docker & Docker Compose (Orquestração, Volumes, Redes)
+
+Redes de Computadores
+
+Sistemas Operacionais
+
+Linux (Administração e Suporte)
+
+Windows (Administração e Suporte)
+
+Desenvolvimento & Scripting
+
+Python
+
+Front-end: HTML, CSS e JavaScript
+
+🌱 Meus Interesses e Foco de Desenvolvimento
+Atualmente, estou aprofundando meus conhecimentos e busco me desenvolver nas seguintes áreas:
+
+Automação de Infraestrutura (Infraestrutura como Código - IaC)
+
+Aprofundamento no ecossistema DevOps e CI/CD.
+
+Criação de scripts e ferramentas em Python para facilitar rotinas de suporte e operação.
+
+📫 Como me encontrar
+Fique à vontade para explorar meus repositórios ou entrar em contato comigo para trocarmos ideias sobre tecnologia e infraestrutura!
+
+💼 LinkedIn: https://www.linkedin.com/in/leonardo-tarum%C3%A3/
+
+📧 E-mail: monteirotgm2@gmail.com
