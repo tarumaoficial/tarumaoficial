@@ -1,50 +1,44 @@
-👨‍💻 Olá, visitante! Eu sou [Leonardo Tarumã] 👋
-Profissional de TI | Infraestrutura | Docker & Python
+👨‍💻 Olá! Eu sou Leonardo Tarumã
 
-Seja bem-vindo ao meu perfil no GitHub! Sou um profissional de tecnologia movido pelo desafio de transformar problemas complexos em soluções práticas. Minha jornada é focada em conectar infraestruturas robustas a experiências de usuário eficientes, garantindo a estabilidade e a segurança dos sistemas.
+Profissional de TI | Infraestrutura | Suporte | Desenvolvedor Web
+
+Atuo na área de Tecnologia da Informação, com foco em suporte, infraestrutura, redes e desenvolvimento de soluções para otimizar rotinas e resolver problemas do dia a dia.
+
+Tenho interesse em unir infraestrutura e desenvolvimento, criando ferramentas e automações que tornem processos mais eficientes e facilitem a operação de ambientes de TI.
 
 🚀 Sobre mim
-💡 Tenho forte atuação na modernização de ambientes e suporte.
+🖥️ Suporte e infraestrutura de TI
+🌐 Redes e sistemas operacionais
+🐳 Docker e Docker Compose
+💻 Desenvolvimento Web com HTML, CSS e JavaScript
+🔧 Automação e criação de scripts
+🔐 Interesse em segurança e boas práticas de infraestrutura
+📚 Em constante evolução em programação e tecnologias de TI
+🛠️ Tecnologias
 
-🎯 Gosto de diagnosticar problemas na causa raiz utilizando pensamento analítico.
+Desenvolvimento
 
-🤝 Meu trabalho é guiado pela empatia e pelo foco nas necessidades reais do usuário.
+HTML
+CSS
+JavaScript
 
-🔄 Aplico metodologias ágeis para entregar melhorias contínuas.
+Infraestrutura
 
-🛠️ Minha Stack de Tecnologias
-Aqui estão as ferramentas e linguagens com as quais trabalho e que compõem meu dia a dia:
-
-Infraestrutura & DevOps
-
-Docker & Docker Compose (Orquestração, Volumes, Redes)
-
+Docker / Docker Compose
+Linux
+Windows
 Redes de Computadores
+Git / GitHub
 
-Sistemas Operacionais
-
-Linux (Administração e Suporte)
-
-Windows (Administração e Suporte)
-
-Desenvolvimento & Scripting
+Automação e Scripting
 
 Python
+Scripts para automação de tarefas e rotinas de TI
+🎯 Atualmente
 
-Front-end: HTML, CSS e JavaScript
+Estou aprofundando meus conhecimentos em programação, automação e infraestrutura, buscando desenvolver projetos práticos que possam ser aplicados tanto no ambiente corporativo quanto em projetos pessoais.
 
-🌱 Meus Interesses e Foco de Desenvolvimento
-Atualmente, estou aprofundando meus conhecimentos e busco me desenvolver nas seguintes áreas:
+📫 Contato
 
-Automação de Infraestrutura (Infraestrutura como Código - IaC)
-
-Aprofundamento no ecossistema DevOps e CI/CD.
-
-Criação de scripts e ferramentas em Python para facilitar rotinas de suporte e operação.
-
-📫 Como me encontrar
-Fique à vontade para explorar meus repositórios ou entrar em contato comigo para trocarmos ideias sobre tecnologia e infraestrutura!
-
-💼 LinkedIn: https://www.linkedin.com/in/leonardo-tarum%C3%A3/
-
+💼 LinkedIn: Leonardo Tarumã
 📧 E-mail: monteirotgm2@gmail.com
