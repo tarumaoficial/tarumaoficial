@@ -13,7 +13,7 @@ Tenho interesse em unir infraestrutura e desenvolvimento, criando ferramentas e 
 🔧 Automação e criação de scripts
 🔐 Interesse em segurança e boas práticas de infraestrutura
 📚 Em constante evolução em programação e tecnologias de TI
-🛠️ Tecnologias
+
 
 
 
